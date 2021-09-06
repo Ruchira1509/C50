@@ -1,0 +1,11 @@
+body {
+    color: rgb(240, 184, 63);
+    background:rgb(86, 175, 223);
+    border:rgb(237, 194, 219) 100px;
+
+}
+.header{
+    background-color:antiquewhite; 
+    display:flex;
+    justify-content: space-between;
+}
